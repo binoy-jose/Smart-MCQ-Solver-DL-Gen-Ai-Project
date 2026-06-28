@@ -49,6 +49,19 @@ The objective is to predict the three most probable answers for each question.
 The baseline models were evaluated using Mean Average Precision at 3 (MAP@3), which measures how highly the correct answer is ranked among the top three predictions.
 
 ---
+### Baseline Model Performance
+
+Model:
+TF-IDF + Cosine Similarity
+
+Training MAP@3:
+0.2962
+
+Kaggle Score :
+0.30922
+
+Remarks:
+The TF-IDF baseline serves as the initial benchmark for comparing future machine learning and deep learning models.
 
 ## Outcome
 
