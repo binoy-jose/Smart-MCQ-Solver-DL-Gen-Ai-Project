@@ -56,6 +56,7 @@ TF-IDF + Cosine Similarity
 
 Training MAP@3:
 0.2962
+
 Kaggle Score :
 0.30922
 
