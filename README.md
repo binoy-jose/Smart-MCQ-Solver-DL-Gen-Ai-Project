@@ -1,10 +1,6 @@
 # DL-GenAi-Project-t2-26
 A Deep Learning and Generative AI project that builds intelligent models to predict the **Top-3 correct answers** for challenging multiple-choice questions.
 
-Name : Binoy Jose J C
-
-ID: 25ds1000066
-
 ## Project Overview
 
 This project was developed as part of the **Deep Learning & Generative AI (T2 2026)** course at IIT Madras.
