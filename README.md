@@ -18,7 +18,7 @@ The objective is to build and compare different machine learning and deep learni
 
 ## Live Application
 
-**The best model is deployed **
+The best model is deployed
 
 https://quirk-mcq-407847884133.asia-south1.run.app
 
