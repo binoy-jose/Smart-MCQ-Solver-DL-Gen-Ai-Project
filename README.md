@@ -16,6 +16,12 @@ The objective is to build and compare different machine learning and deep learni
 - **Model 5:** RoBERTa Fine-Tuning
 - **Model 6:** DeBERTa Fine-Tuning
 
+## Live Application
+
+**The best model is deployed **
+
+https://quirk-mcq-407847884133.asia-south1.run.app
+
 ## Technologies Used
 
 - Python
